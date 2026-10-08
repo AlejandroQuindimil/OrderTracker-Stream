@@ -116,7 +116,7 @@ El proyecto se desarrolla por sprints, con un entregable verificable en cada uno
 | Sprint | Contenido | Estado |
 |---|---|---|
 | **0 — Setup y diseño** | Repositorio, esqueletos de los tres proyectos, entorno (Java, Node, Docker) | ✅ Completado |
-| **1 — `pedidos-service`** | CRUD de pedidos, persistencia en PostgreSQL, productor Kafka, tests unitarios | ⏳ Pendiente |
+| **1 — `pedidos-service`** | CRUD de pedidos, persistencia en PostgreSQL, productor Kafka, tests unitarios | ✅ Completado |
 | **2 — `tracking-service`** | Consumidor Kafka, estado en Redis, simulador y transiciones de estado | ⏳ Pendiente |
 | **3 — WebSockets** | STOMP/SockJS, canal `/topic/pedidos/{id}`, endpoint de último estado | ⏳ Pendiente |
 | **4 — Frontend: pedidos** | Pantalla de creación, listado/historial y servicios HTTP | ⏳ Pendiente |
